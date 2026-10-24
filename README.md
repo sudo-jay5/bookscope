@@ -33,7 +33,7 @@ A Python mini project that scrapes book data from [books.toscrape.com](https://b
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR-USERNAME/bookscope.git
+git clone https://github.com/sudo-jay5/bookscope.git
 cd bookscope
 ```
 
